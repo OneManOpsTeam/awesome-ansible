@@ -2,6 +2,11 @@
 
 List of awesome tools designed to help you manage your Ansible code.
 
+## Development
+
+### Editor
+[Ansible Editor](https://ansible-editor.com) - An editor which contains all Ansible modules, using this editor you able to build playbooks easily and quickly.
+
 ## Syntax Check
 
 ### ansible-lint
